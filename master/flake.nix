@@ -11,7 +11,6 @@
   inputs.src-nimrpc_milis-master.ref   = "refs/heads/master";
   inputs.src-nimrpc_milis-master.owner = "milisarge";
   inputs.src-nimrpc_milis-master.repo  = "nimrpc_milis";
-  inputs.src-nimrpc_milis-master.dir   = "";
   inputs.src-nimrpc_milis-master.type  = "github";
   
   inputs."msgpack4nim".owner = "nim-nix-pkgs";
