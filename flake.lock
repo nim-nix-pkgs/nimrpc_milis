@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668776772,
-        "narHash": "sha256-RZYxL0/sYzUQ7/mZrSeEdf+MF8DZ1+ffCQ8FU+6LEuA=",
+        "lastModified": 1669431920,
+        "narHash": "sha256-Q6nmVRST9ocZ2iE+f8Qbm/tQcW6z4PvggZUipwKAifc=",
         "owner": "nim-nix-pkgs",
         "repo": "nimrpc_milis",
-        "rev": "b716ad5b3724cb989bb7b16dc41e838867f42bc2",
+        "rev": "780ac5c2c2fb49ee0601032bdde79ed481b3d17d",
         "type": "github"
       },
       "original": {
